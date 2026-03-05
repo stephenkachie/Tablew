@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Grades</title>
+</head>
+<body>
+    <h2>Class Grades Report</h2>
+    
+    <table border="1" cellpadding="10" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Student name</th>
+                <th>Assignment 1 grade</th>
+                <th>Assignment 2 grade</th>
+                <th>Final exam grade</th>
+                <th>Total grade</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>John Doe</td>
+                <td>85</td>
+                <td>90</td>
+                <td>88</td>
+                <td>263</td>
+            </tr>
+            <tr>
+                <td>Jane Smith</td>
+                <td>92</td>
+                <td>95</td>
+                <td>98</td>
+                <td>285</td>
+            </tr>
+            <tr>
+                <td>Sam Johnson</td>
+                <td>78</td>
+                <td>82</td>
+                <td>80</td>
+                <td>240</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
